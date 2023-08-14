@@ -1,6 +1,7 @@
 # revenue_prediction
 
 Description:
+
 In this project, I tackled the challenge of predicting restaurant revenue based on a comprehensive dataset containing various attributes such as franchise information, category, city, and order details. By leveraging machine learning techniques, I aimed to develop an accurate predictive model that could assist restaurant owners in anticipating their revenue and optimizing their operations.
 
 Key Steps and Achievements:
@@ -9,9 +10,11 @@ Explored the dataset to gain insights into the distribution of variables, identi
 Conducted thorough data preprocessing, including handling missing values, encoding categorical variables, and scaling features to ensure the quality of input data.
 
 Technologies Used:
+
 Python, Pandas, NumPy, Scikit-learn, Jupyter Notebook
 
 Outcome:
+
 This project equipped me with hands-on experience in data preprocessing, feature engineering, machine learning modeling, and performance evaluation. The predictive model developed in this project could be valuable for restaurant owners and decision-makers seeking insights into potential revenue outcomes based on various attributes.
 
 Future Enhancements:
